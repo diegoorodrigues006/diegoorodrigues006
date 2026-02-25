@@ -1,16 +1,15 @@
-## Hi there 👋
+Olá, eu sou o Diego Rodrigues! 👋
+Estudante de Ciências da Computação focado em transição de carreira para a área de Tecnologia. Atualmente, aplico meu raciocínio lógico e experiência em gestão de dados para desenvolver soluções eficientes em software.
++2
 
-<!--
-**diegoorodrigues006/diegoorodrigues006** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🛠️ Tecnologias e Ferramentas
+📚 Formação & Certificações
+🎓 Bacharelado em Ciências da Computação - Descomplica Uniamérica (Em curso).
 
-Here are some ideas to get you started:
+🏆 Especialista em FrontEnd Development (240h).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
+🏆 Object Oriented Programming com Java (120h).
+
+🏆 Software Requirements & UML (160h).
 - ⚡ Fun fact: ...
 -->
