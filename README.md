@@ -3,7 +3,9 @@ Estudante de Ciências da Computação focado em transição de carreira para a 
 +2
 
 🛠️ Tecnologias e Ferramentas
+
 📚 Formação & Certificações
+
 🎓 Bacharelado em Ciências da Computação - Descomplica Uniamérica (Em curso).
 
 🏆 Especialista em FrontEnd Development (240h).
@@ -11,5 +13,3 @@ Estudante de Ciências da Computação focado em transição de carreira para a 
 🏆 Object Oriented Programming com Java (120h).
 
 🏆 Software Requirements & UML (160h).
-- ⚡ Fun fact: ...
--->
