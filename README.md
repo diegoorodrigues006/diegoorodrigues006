@@ -1,9 +1,12 @@
 <div align="center">
   <img src="https://github.com/sagar-viradiya/sagar-viradiya/blob/master/resources/banner.png" width="600px">
 </div>
+
+
 Olá, eu sou o Diego Rodrigues! 👋
 Estudante de Ciências da Computação focado em transição de carreira para a área de Tecnologia. Atualmente, aplico meu raciocínio lógico e experiência em gestão de dados para desenvolver soluções eficientes em software.
-+2
+
+
 
 🛠️ Tecnologias e Ferramentas
 
