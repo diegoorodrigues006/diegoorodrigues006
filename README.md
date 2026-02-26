@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="https://github.com/sagar-viradiya/sagar-viradiya/blob/master/resources/banner.png" width="600px">
+  <img src="https://github.com/sagar-viradiya/sagar-viradiya/blob/master/resources/banner.png" width="500px">
 </div>
 
 
-Olá, eu sou o Diego Rodrigues! 👋
+Olá, eu sou o Diego Rodrigues! 👋<br><br>
 Estudante de Ciências da Computação focado em transição de carreira para a área de Tecnologia. Atualmente, aplico meu raciocínio lógico e experiência em gestão de dados para desenvolver soluções eficientes em software.
 
 
@@ -21,7 +21,7 @@ Estudante de Ciências da Computação focado em transição de carreira para a 
 🏆 Software Requirements & UML (160h).
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif" width="600px">
+<img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="250px">
 </div>
 
 https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/blob/main/README.md
