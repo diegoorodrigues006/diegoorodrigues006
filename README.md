@@ -23,3 +23,5 @@ Estudante de Ciências da Computação focado em transição de carreira para a 
 <div align="center">
   <img src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif" width="600px">
 </div>
+
+https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/blob/main/README.md
