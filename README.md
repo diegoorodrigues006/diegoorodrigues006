@@ -1,66 +1,99 @@
 <div align="center">
-  <img src="https://github.com/sagar-viradiya/sagar-viradiya/blob/master/resources/banner.png" width="500px">
+  <a href="https://github.com/diegoorodrigues006">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=45&duration=2800&pause=2000&color=00FF00&center=true&vCenter=true&width=900&lines=Olá%2C+eu+sou+Diego+Rodrigues+%F0%9F%91%8B;Full+Stack+Developer+em+Formação;Apaixonado+por+Tecnologia" />
+  </a>
 </div>
 
-# Olá, eu sou o Diego Rodrigues! 👋
-
-Estudante de **Ciências da Computação** focado em transição de carreira para a área de Tecnologia. Atualmente, aplico meu raciocínio lógico e experiência em gestão de dados para desenvolver soluções inovadoras.
-
-## 🎯 Objetivo
-Crescer como desenvolvedor Full Stack e contribuir para projetos que impactam a sociedade através da tecnologia.
-
 ---
-
-## 🛠️ Tecnologias e Ferramentas
-
-### Frontend
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### Backend & Databases
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-
-### Ferramentas
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
----
-
-## 📚 Formação & Certificações
-
-🎓 **Bacharelado em Ciências da Computação** - Descomplica Uniamérica *(Em curso)*
-
-🏆 **Especialista em FrontEnd Development** - 240h
-
-🏆 **Object Oriented Programming com Java** - 120h
-
-🏆 **Software Requirements & UML** - 160h
-
----
-
-## 📊 Minhas Estatísticas
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=diegoorodrigues006&show_icons=true&theme=dracula" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegoorodrigues006&layout=compact&theme=dracula" />
+  
+### 💼 Sobre Mim
+
+Estudante de **Ciências da Computação** em transição de carreira para a área de Tecnologia. Aplico raciocínio lógico e experiência em gestão de dados para criar **soluções inovadoras**.
+
+🎯 **Objetivo:** Crescer como desenvolvedor **Full Stack** e impactar a sociedade através da tecnologia.
+
 </div>
 
 ---
 
-## 🔗 Conecte-se Comigo
+## 🚀 Tecnologias & Stack
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seu-perfil)
+<div align="center">
+
+### 🎨 Frontend
+<img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react&theme=dark" />
+
+### ⚙️ Backend & Databases  
+<img src="https://skillicons.dev/icons?i=java,nodejs,sql,postgresql&theme=dark" />
+
+### 🛠️ Ferramentas & DevOps
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma&theme=dark" />
+
+</div>
+
+---
+
+## 🎓 Formação & Certificações
+
+<table align="center">
+<tr>
+<td width="50%">
+
+**🎓 Educação Formal**
+- Bacharelado em Ciências da Computação
+  - *Descomplica Uniamérica (Em curso)*
+
+</td>
+<td width="50%">
+
+**🏆 Certificações**
+- ✅ FrontEnd Development (240h)
+- ✅ OOP com Java (120h)  
+- ✅ Software Requirements & UML (160h)
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  
+![Diego's GitHub Stats](https://github-readme-stats.vercel.app/api?username=diegoorodrigues006&show_icons=true&theme=vision-friendly-dark&hide_border=true&count_private=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diegoorodrigues006&layout=compact&theme=vision-friendly-dark&hide_border=true)
+
+</div>
+
+---
+
+## 🎯 Projetos em Destaque
+
+🔗 Em breve! Confira meus repositórios para mais detalhes.
+
+---
+
+## 🤝 Vamos Conectar?
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seu-perfil)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/diegoorodrigues006)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=google-chrome&logoColor=white)](https://seu-portfolio.com)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seu-email@gmail.com)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seu-email@gmail.com)
+
+</div>
 
 ---
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="250px">
+  <img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="300px" alt="Coding">
+  
+  <p>
+    <em>"Aprender a programar é aprender a criar o futuro"</em> 💻✨
+  </p>
 </div>
