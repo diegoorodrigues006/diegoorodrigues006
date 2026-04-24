@@ -71,12 +71,6 @@ Estudante de **Ciências da Computação** em transição de carreira para a ár
 
 ---
 
-## 🎯 Projetos em Destaque
-
-🔗 Em breve! Confira meus repositórios para mais detalhes.
-
----
-
 ## 🤝 Vamos Conectar?
 
 <div align="center">
@@ -93,7 +87,4 @@ Estudante de **Ciências da Computação** em transição de carreira para a ár
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="300px" alt="Coding">
   
-  <p>
-    <em>"Aprender a programar é aprender a criar o futuro"</em> 💻✨
-  </p>
 </div>
