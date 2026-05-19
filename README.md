@@ -55,26 +55,11 @@ Estudante de **Ciências da Computação** em transição de carreira para a ár
 - ✅ FrontEnd Development (240h)
 - ✅ OOP com Java (120h)  
 - ✅ Software Requirements & UML (160h)
+- ✅ Mobile Developer (160h)
 
 </td>
 </tr>
 </table>
-
----
-
-## 💡 Projetos em Destaque
-
-<div align="center">
-
-| 🚀 Projeto | 📝 Descrição | 💻 Tecnologias |
-|-----------|------------|----------------|
-| Projeto 1 | Descrição do seu projeto | React, Node.js, PostgreSQL |
-| Projeto 2 | Descrição do seu projeto | Flutter, Firebase |
-| Projeto 3 | Descrição do seu projeto | Java, Spring Boot |
-
-> 🔗 Confira mais projetos no meu [GitHub](https://github.com/diegoorodrigues006)
-
-</div>
 
 ---
 
