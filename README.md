@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://github.com/diegoorodrigues006">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=45&duration=2800&pause=2000&color=00FF00&center=true&vCenter=true&width=900&lines=Olá%2C+eu+sou+Diego+Rodrigues+%F0%9F%91%8B;Full+Stack+Developer+em+Formação;Apaixonado+por+Tecnologia" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=45&duration=2800&pause=2000&color=00FF00&center=true&vCenter=true&width=900&lines=Olá%2C+eu+sou+Diego+Rodrigues+%F0%9F%91%8B;[...]
   </a>
 </div>
 
@@ -24,6 +24,9 @@ Estudante de **Ciências da Computação** em transição de carreira para a ár
 
 ### 🎨 Frontend
 <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react&theme=dark" />
+
+### 📱 Mobile Developer
+<img src="https://skillicons.dev/icons?i=flutter,kotlin,swift&theme=dark" />
 
 ### ⚙️ Backend & Databases  
 <img src="https://skillicons.dev/icons?i=java,nodejs,sql,postgresql&theme=dark" />
@@ -59,13 +62,17 @@ Estudante de **Ciências da Computação** em transição de carreira para a ár
 
 ---
 
-## 📊 GitHub Stats
+## 💡 Projetos em Destaque
 
 <div align="center">
-  
-![Diego's GitHub Stats](https://github-readme-stats.vercel.app/api?username=diegoorodrigues006&show_icons=true&theme=vision-friendly-dark&hide_border=true&count_private=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diegoorodrigues006&layout=compact&theme=vision-friendly-dark&hide_border=true)
+| 🚀 Projeto | 📝 Descrição | 💻 Tecnologias |
+|-----------|------------|----------------|
+| Projeto 1 | Descrição do seu projeto | React, Node.js, PostgreSQL |
+| Projeto 2 | Descrição do seu projeto | Flutter, Firebase |
+| Projeto 3 | Descrição do seu projeto | Java, Spring Boot |
+
+> 🔗 Confira mais projetos no meu [GitHub](https://github.com/diegoorodrigues006)
 
 </div>
 
