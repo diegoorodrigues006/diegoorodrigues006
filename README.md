@@ -26,7 +26,7 @@ Estudante de **Ciências da Computação** em transição de carreira para a ár
 <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react&theme=dark" />
 
 ### 📱 Mobile Developer
-<img src="https://skillicons.dev/icons?i=flutter,kotlin,swift&theme=dark" />
+<img src="https://skillicons.dev/icons?i=flutter,dart&theme=dark" />
 
 ### ⚙️ Backend & Databases  
 <img src="https://skillicons.dev/icons?i=java,nodejs,sql,postgresql&theme=dark" />
