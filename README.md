@@ -56,6 +56,7 @@ Estudante de **Ciências da Computação** em transição de carreira para a ár
 - ✅ OOP com Java (120h)  
 - ✅ Software Requirements & UML (160h)
 - ✅ Mobile Developer (160h)
+- ✅ Smart Data Structures (240h)
 
 </td>
 </tr>
