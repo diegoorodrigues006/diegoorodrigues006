@@ -23,7 +23,7 @@ Estudante de **Ciências da Computação** em transição de carreira para a ár
 <div align="center">
 
 ### 🎨 Frontend
-<img src="https://skillicons.dev/icons?i=html,css,javascript,react&theme=dark" />
+<img src="https://skillicons.dev/icons?i=html,css,sass,javascript,react&theme=dark" />
 
 ### 📱 Mobile Developer
 <img src="https://skillicons.dev/icons?i=flutter,dart&theme=dark" />
