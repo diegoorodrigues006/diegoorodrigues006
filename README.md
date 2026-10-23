@@ -32,7 +32,7 @@ Estudante de **Ciências da Computação** em transição de carreira para a ár
 <img src="https://skillicons.dev/icons?i=java,nodejs,postgresql&theme=dark" />
 
 ### 🛠️ Ferramentas & DevOps
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma&theme=dark" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,cypress&theme=dark" />
 
 </div>
 
